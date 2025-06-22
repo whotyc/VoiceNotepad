@@ -1,0 +1,6 @@
+speechrecognition
+pyaudio
+pyttsx3
+tk
+langdetect
+requests
